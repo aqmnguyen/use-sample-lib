@@ -53,9 +53,9 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@mn-test/sample-mime-lib": "^0.1.0"
+    "@mn-test/sample-mime-lib": "^1.0.0"
   },
   "resolutions": {
-    "mime": "2.6.0"
+    "is-odd": "2.0.0"
   }
 }
